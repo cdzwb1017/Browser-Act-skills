@@ -111,7 +111,7 @@ Almost everything is free. Only two features require payment: managed proxies (D
 
 | Feature | Free<br>(No&nbsp;Signup) | Free<br>(Login&nbsp;Only) | Paid |
 |---------|:----------------:|:-----------------:|:----:|
-| Basic automation (state, click, input, screenshot), Chrome / Chrome-direct | ✓ | ✓ | ✓ |
+| Browser automation, Chrome / Chrome-direct | ✓ | ✓ | ✓ |
 | Stealth browser (≤ 5), stealth-extract, solve-captcha, remote-assist, privacy mode, Skill Forge | — | ✓ | ✓ |
 | Stealth browser (> 5), Dynamic / Static proxy | — | — | ✓ |
 
